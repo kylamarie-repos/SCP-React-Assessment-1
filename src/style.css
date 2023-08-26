@@ -1,3 +1,11 @@
+@media only screen and (max-width: 600px)
+{
+    img
+    {
+        width: 80vw;
+        display: block;
+    }
+}
 
 p {
     white-space: pre-line;  
@@ -5,5 +13,5 @@ p {
 }
 
 #b-logo {
-    height: 4vh;
+    width: 6vw;
 }
